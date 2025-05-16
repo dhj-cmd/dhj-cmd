@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hiiiii!这里是一个新手小白的github主页美化尝试
+## 在Peking University的这一年里，我真心学到了很多，希望能在新的阶段中学到更多新的东西！
+
 
 <!--
 **dhj-cmd/dhj-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
