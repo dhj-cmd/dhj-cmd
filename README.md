@@ -15,8 +15,6 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://dhj-cmd.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/1460175874"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
@@ -39,6 +37,7 @@
 <img align="right" width="88" src="https://ts4.tc.mm.bing.net/th/id/OIP-C.usy0QsudsevNt7U-KjYnCgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
 
 <p>&emsp;&emsp;嗨，你好，我是杜浩嘉。热爱编程、乒乓球、篮球、狼人杀。</p>
+<p>&emsp;&emsp;目前就读于北京大学遥感科学与技术专业，大一年级。</p>
 <p>&emsp;&emsp;热爱计算机科学，希望将来能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;总是在学习，不希望停下我的脚步</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
