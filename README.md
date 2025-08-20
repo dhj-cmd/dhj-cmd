@@ -36,7 +36,7 @@
 
 <img align="right" width="88" src="https://ts4.tc.mm.bing.net/th/id/OIP-C.usy0QsudsevNt7U-KjYnCgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
 
-<p>&emsp;&emsp;嗨，你好，我是杜浩嘉。热爱编程、乒乓球、篮球、狼人杀。</p>
+<p>&emsp;&emsp;嗨，你好，我是杜浩嘉。热爱编程、乒乓球二级运动员、篮球、多年狼人杀经验。</p>
 <p>&emsp;&emsp;目前就读于北京大学遥感科学与技术专业，大一年级。</p>
 <p>&emsp;&emsp;热爱计算机科学，希望将来能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;总是在学习，不希望停下我的脚步</p>
