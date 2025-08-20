@@ -36,7 +36,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://ts4.tc.mm.bing.net/th/id/OIP-C.usy0QsudsevNt7U-KjYnCgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
 
 <p>&emsp;&emsp;嗨，你好，我是杜浩嘉。热爱编程、乒乓球、篮球、狼人杀。</p>
 <p>&emsp;&emsp;热爱计算机科学，希望将来能成为一名优秀的开发者。</p>
