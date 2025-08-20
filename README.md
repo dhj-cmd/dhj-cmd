@@ -16,7 +16,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://dhj-cmd.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://u.wechat.com/MOopYrgUSbtdwwQ-UNtLOd4?s=2"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/1460175874"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=dhj-cmd&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
